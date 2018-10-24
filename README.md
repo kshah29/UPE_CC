@@ -1,3 +1,3 @@
 # UPE_CC
 
-UPE oding Challenge Spring 2018
+UPE Coding Challenge Spring 2018
